@@ -2,6 +2,6 @@
 
 demo description text edited.
 
-# Sub Heading
+# Local Development
 
-subheading text for testing
+open the index.html files
